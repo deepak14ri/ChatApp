@@ -24,7 +24,7 @@ To run the application locally, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/deepak14ri/chat-app.git
    
 # Usage
 Upon accessing the application, users can enter their name or choose a username to join the chat.
